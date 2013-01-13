@@ -1,0 +1,11 @@
+[user]
+	name = kyosuke
+	email = kyosuke.nakajima@gmail.com
+[alias]
+	ca = commit -a -m
+	co = checkout
+	di = diff
+	st = status
+	br = branch -a
+	ps = push origin
+	pl = pull origin
